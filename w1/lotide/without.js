@@ -41,3 +41,4 @@ const without = function(source, itemsToRemove) {
 
 }
 eqArrays([1, 2, 3], [1, 2, 5])
+a // deletegit remote add lotitde/ <https://github.com/whyttte/lotide.gi

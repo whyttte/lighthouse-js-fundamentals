@@ -11,3 +11,4 @@ const assertArrayEqual =  function(array1, array2) {
 
 
 eqArrays([1, 2, 3], [1, 2, 5])
+a // git remote add lotitde/ <https://github.com/whyttte/lotide.git>

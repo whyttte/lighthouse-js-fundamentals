@@ -31,3 +31,4 @@ const eqArrays = function (array1, array2) {
 
 eqArrays([1, 2, 3], [1, 2, 3])
 eqArrays([1, 2, 3], [1, 2, 5])
+a // delete
